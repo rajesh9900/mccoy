@@ -21,6 +21,7 @@ public class IteratorDemo {
 			if((m%2)==0)
 			{
 				System.out.println("After iterating "+m);
+				System.out.println("hi");
 			}
 		}
 				
